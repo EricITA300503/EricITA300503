@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Eric Bertero
 
-<!--
-**EricITA300503/EricITA300503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Systems Technology student at Sheridan College, focused on
+cybersecurity and system administration. Looking for junior SOC, IT security,
+or sysadmin roles in the GTA starting 2027.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Homelab**: Proxmox server hosting self-run services under my own domain,
+  exposed through Cloudflare Tunnels, with Tailscale for remote access to the
+  home LAN. Built around double NAT and an ISP that blocks inbound 80/443.
+- **Cyber Range**: [one line on what it does and what you practice in it]
+- **Splunk**: working toward Core Certified Power User, then Enterprise Certified Admin
+
+## Tools I use
+
+Linux · Proxmox · OpenWrt · Tailscale · Cloudflare · Splunk · Python · Bash · Git
+
+## Find me
+
+[LinkedIn]([link](https://www.linkedin.com/in/ericbertero)) · [Website]([link](https://www.ebertero.com/)) · eric.bertero03@gmail.com
